@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#columnaPrincipal {
+    margin: auto 35%;
+    border: 1px solid rgb(210, 208, 208);
+    border-radius: 1%;
+    background-color: white;
+    font-family: 'Inter', serif;
+}
+
+#separador {
+    border: 1px solid #b0b3b4;
+    margin: 10px 3px 10px 3px;
+}
+
+#titulo {
+    text-align: center;
+    padding-top: 20px;
+    color: #354B58;
+}
+
+.subtitulo {
+    color: #4B96CD;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#parrafo {
+    padding-left: 2px;
+    font-size: 11px;
+    color: #354B58;
+}
+
+#datosPersonales {
+    color: #354B58;
+}
+
+#lista {
+    text-align: left;
+    padding-left: 3%;
+    color: #212b31;
+    font-weight: 550;
+}
+
+#letraVerde {
+    color: green;
+}
+
+#bordeExterior {
+    background-color: #E7EBED;
+}
+
+#lineaTexto {
+    font-size: 12px;
+    color: #354B58;
+}
+
+#borde {
+    text-align: left;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 11px;
+}
+
+#borde1 {
+    background-color: #EEF8FE;
+    border: 1px solid gainsboro;
+    border-radius: 2%;
+    margin: 12px;
+    text-align: left;
+    padding: 20px;
+    font-size: 11px;
+}
+
+#borde2 {
+    background-color: #FFF2DF;
+    border: 1px solid #F8D195;
+    border-radius: 2%;
+    margin: 12px;
+    text-align: left;
+    padding: 20px;
+    font-size: 12px;
+}
+
+#borde3 {
+    background-color: #E6F6E9;
+    border: 1px solid #B1D4B8;
+    border-radius: 2%;
+    margin: 12px;
+    text-align: left;
+    padding: 20px;
+    font-size: 11px;
+}
